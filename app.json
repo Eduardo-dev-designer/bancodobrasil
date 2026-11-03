@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Meu Financeiro",
+    "slug": "meu-financeiro",
+    "scheme": "meufinanceiro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
